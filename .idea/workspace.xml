@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d875b24-7c28-41b2-8666-826c1935f570" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FairAndUnFairTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multithread/FairAndUnFairTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="bean.xml" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java_base/NIOServer.java" />
+        <option value="$PROJECT_DIR$/src/java_base/DemoServer.java" />
+        <option value="$PROJECT_DIR$/src/java_base/NIOFileCopy.java" />
+        <option value="$PROJECT_DIR$/src/java_base/ThreadSafeSample.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/backtracking_39/Zero2OneBag.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/backtracking_39/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/dynamicpro_40/DynamicProgramm.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/dynamicpro_40/DynamicProgrammWeight.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/dynamicpro_40/DynamicProgrammValue.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/bplustree_48/BPlusTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/bplustree_48/BPlusTreeLeafNode.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/dynamicpro_41/DynamicTheory.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/dynamicpractise_42/DynamicPractise.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/topo_43/Graph.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/mindistance_44/PriorityQueue1.java" />
+        <option value="$PROJECT_DIR$/src/java_algo/mindistance_44/WeightedGraph.java" />
+        <option value="$PROJECT_DIR$/src/java_base/RWSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/StampedSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/java_base/DeadLockSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/DeadLockSample2.java" />
+        <option value="$PROJECT_DIR$/src/java_base/UsualSemaphoreSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/AbnormalSemaphoreSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/LatchSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/CyclicBarrierSample.java" />
+        <option value="$PROJECT_DIR$/src/java_base/ConsumerProducer.java" />
+        <option value="$PROJECT_DIR$/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/myspring/bean/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/myspring/PropertyDefinition.java" />
+        <option value="$PROJECT_DIR$/src/myspring/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/myspring/bean/Person.java" />
+        <option value="$PROJECT_DIR$/out/production/algorithm/myspring/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/myspring/YhxResource.java" />
+        <option value="$PROJECT_DIR$/src/myspring/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/test/SpringTest.java" />
+        <option value="$PROJECT_DIR$/src/myspring/YhxClassPathXmlApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/myspring/bean/PersonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[283]移动零.java" />
+        <option value="$PROJECT_DIR$/src/yuan/book_thread_art/Priority.java" />
+        <option value="$PROJECT_DIR$/src/yuan/book_thread_art/chapter4/Priority.java" />
+        <option value="$PROJECT_DIR$/src/java8/TestLambda2.java" />
+        <option value="$PROJECT_DIR$/src/java8/TestLambda1.java" />
+        <option value="$PROJECT_DIR$/src/multithread/BeeperControl.java" />
+        <option value="$PROJECT_DIR$/src/multithread/BoundedBuffer.java" />
+        <option value="$PROJECT_DIR$/src/multithread/Mutux.java" />
+        <option value="$PROJECT_DIR$/src/multithread/TwinsLock.java" />
+        <option value="$PROJECT_DIR$/src/multithread/SleepUtils.java" />
+        <option value="$PROJECT_DIR$/src/multithread/TwinsLockTest.java" />
+        <option value="$PROJECT_DIR$/src/multithread/FairAndUnFairTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Reentran&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;AbstractQueuedSynchronizer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/Lock.java&#10;FutureTask&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/FutureTask.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;Callabl&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;ClassW&#9;PSI&#9;JAVA://jdk.internal.org.objectweb.asm.ClassWriter&#10;ProxyGe&#9;PSI&#9;JAVA://sun.misc.ProxyGenerator&#10;Proxy&#9;PSI&#9;JAVA://com.sun.javafx.fxml.builder.ProxyBuilder&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;AtomicLo&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLongFieldUpdater&#10;AtomicInt&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Fork&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;ConcurrentLinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedQueue&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java&#10;ArrayBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Runtime&#9;PSI&#9;JAVA://java.lang.Runtime&#10;Collection&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Collection.java&#10;ByteBuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer&#10;Files&#9;PSI&#9;JAVA://java.nio.file.Files&#10;ConcurrentHash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Boolean&#9;PSI&#9;JAVA://java.lang.Boolean&#10;Byte&#9;PSI&#9;JAVA://java.lang.Byte&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringBuffer&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Finalizer&#9;PSI&#9;JAVA://java.lang.ref.Finalizer&#10;Syste&#9;PSI&#9;JAVA://java.lang.System&#10;List&#9;PSI&#9;JAVA://java.util.List&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/多线程与高并发" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\algorithm\src\multithread" />
+      <recent name="D:\dev\algorithm\src\myspring\resources" />
+      <recent name="D:\dev\algorithm\src\java_base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TwinsLockTest">
+    <configuration name="BeeperControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="multithread.BeeperControl" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="yuan.book_thread_art.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="yuan.book_thread_art.chapter4.Priority" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="SpringTest.testAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="testAnnotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpringTest.testInjection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="testInjection" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TwinsLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="multithread.TwinsLockTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SpringTest.testInjection" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SpringTest.testAnnotation" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Priority" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeeperControl" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TwinsLockTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TwinsLockTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BeeperControl" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Priority" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SpringTest.testInjection" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SpringTest.testAnnotation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d875b24-7c28-41b2-8666-826c1935f570" name="Default" comment="" />
+      <created>1586756545533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586756545533</updated>
+      <workItem from="1586756549365" duration="12798000" />
+      <workItem from="1587518813978" duration="42674000" />
+      <workItem from="1589592081866" duration="12375000" />
+      <workItem from="1590196676702" duration="10481000" />
+      <workItem from="1591337121336" duration="36253000" />
+      <workItem from="1592367378589" duration="1199000" />
+      <workItem from="1592443571226" duration="1716000" />
+      <workItem from="1593497384939" duration="5688000" />
+      <workItem from="1594089282124" duration="565000" />
+      <workItem from="1594120046073" duration="592000" />
+      <workItem from="1594461179959" duration="1139000" />
+      <workItem from="1594794770633" duration="1783000" />
+      <workItem from="1599279644337" duration="60204000" />
+      <workItem from="1600220360744" duration="500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 16m 14s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 19m 33s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 21m 30s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 22m 23s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 29m 12s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 29m 35s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 37m 13s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 13h 38m 03s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testAnnotation - 2020.06.07 at 14h 08m 01s.xml">
+      <configuration name="SpringTest.testAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testInjection - 2020.06.07 at 14h 19m 59s.xml">
+      <configuration name="SpringTest.testInjection" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="RestServices" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="aiXcoder" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5270936" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.50574714" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30257186" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.49425286" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24962178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5566502" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="RestServices" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.49425286" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24962178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5566502" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="aiXcoder" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5270936" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.50574714" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30257186" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myspring/YhxClassPathXmlApplicationContext.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[146]LRU缓存机制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[283]移动零.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myspring/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurpractice/annotations/GuardedBy.java" />
+    <entry file="file://$PROJECT_DIR$/src/concurpractice/annotations/ThreadSafe.java" />
+    <entry file="file://$PROJECT_DIR$/src/java8/TestLambda2.java" />
+    <entry file="file://$PROJECT_DIR$/src/java8/TestLambda1.java" />
+    <entry file="file://$PROJECT_DIR$/src/java8/TestLambda3.java" />
+    <entry file="file://$PROJECT_DIR$/src/yuan/bio/ReadFromFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/yuan/book_thread_art/chapter4/Priority.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_base/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="47" column="45" lean-forward="false" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.ScheduledExecutorService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ScheduledExecutorService</OriginalElement>
+          <nodes>
+            <node x="0.0" y="160.0">java.util.concurrent.AbstractExecutorService</node>
+            <node x="11.0" y="240.0">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="151.0" y="0.0">java.util.concurrent.Executor</node>
+            <node x="207.0" y="160.0">java.util.concurrent.ScheduledExecutorService</node>
+            <node x="87.5" y="320.0">java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node x="130.5" y="80.0">java.util.concurrent.ExecutorService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.AbstractExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="93.5" y="135.0" />
+              <point x="165.25" y="135.0" />
+              <point x="-34.75" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ThreadPoolExecutor">
+              <point x="-56.25" y="-15.0" />
+              <point x="143.75" y="295.0" />
+              <point x="93.5" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ExecutorService" target="java.util.concurrent.Executor">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ScheduledExecutorService">
+              <point x="56.25" y="-15.0" />
+              <point x="256.25" y="295.0" />
+              <point x="306.5" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.AbstractExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.concurrent.ScheduledExecutorService" target="java.util.concurrent.ExecutorService">
+              <point x="0.0" y="-15.0" />
+              <point x="306.5" y="135.0" />
+              <point x="234.75" y="135.0" />
+              <point x="34.75" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-307.0" y="177.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.ThreadPoolExecutor</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="140" column="6" lean-forward="false" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1322" column="36" lean-forward="false" selection-start-line="1322" selection-start-column="36" selection-end-line="1322" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/BeeperControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="402" column="7" lean-forward="true" selection-start-line="402" selection-start-column="7" selection-end-line="402" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="101" column="26" lean-forward="false" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1226" column="44" lean-forward="true" selection-start-line="1226" selection-start-column="44" selection-end-line="1226" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="173" column="69" lean-forward="true" selection-start-line="173" selection-start-column="69" selection-end-line="173" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/RunnableScheduledFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="47" column="84" lean-forward="false" selection-start-line="47" selection-start-column="84" selection-end-line="47" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Delayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ScheduledFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="46" column="26" lean-forward="false" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="1010" column="17" lean-forward="true" selection-start-line="1010" selection-start-column="17" selection-end-line="1010" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="276" column="64" lean-forward="true" selection-start-line="276" selection-start-column="64" selection-end-line="276" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="788" column="29" lean-forward="false" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="53" column="11" lean-forward="false" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="e#1247#1248#0" expanded="false" />
+            <element signature="e#1270#1271#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9016">
+          <caret line="104" column="33" lean-forward="true" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/BoundedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="344" column="6" lean-forward="true" selection-start-line="344" selection-start-column="6" selection-end-line="344" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="205" column="69" lean-forward="true" selection-start-line="205" selection-start-column="69" selection-end-line="205" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/TwinsLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/SleepUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/TwinsLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/Mutux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.FairSync">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock.FairSync</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.locks.ReentrantLock.FairSync</node>
+            <node x="" y="">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="" y="">java.util.concurrent.locks.ReentrantLock.Sync</node>
+            <node x="" y="">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+            <node x="" y="">java.util.concurrent.locks.ReentrantLock.NonfairSync</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="175.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.NonfairSync">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock.NonfairSync</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniApply</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.Iter</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ValueSpliterator</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWSubListIterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.TreeBin</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceKeysToLongTask</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.Transferer</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.KeyIterator</node>
+            <node x="" y="">java.util.concurrent.Future</node>
+            <node x="" y="">java.util.concurrent.CountedCompleter</node>
+            <node x="" y="">java.util.concurrent.RunnableScheduledFuture</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.SubMap.SubMapKeyIterator</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue.PBQSpliterator</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.Node</node>
+            <node x="" y="">java.util.concurrent.ConcurrentNavigableMap</node>
+            <node x="" y="">java.util.concurrent.DelayQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.RecursiveAction</node>
+            <node x="" y="">java.util.concurrent.BlockingQueue</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArraySet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.EntrySetView</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itrs.Node</node>
+            <node x="" y="">java.util.concurrent.CountDownLatch</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.CompletionStage</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.AsyncSupply</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachTransformedEntryTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.Node</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.TableStack</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceValuesToLongTask</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor.DelayedWorkQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.EntryIterator</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.ThreadPerTaskExecutor</node>
+            <node x="" y="">java.util.concurrent.FutureTask.WaitNode</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.CoCompletion</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.Node</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniExceptionally</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapEntry</node>
+            <node x="" y="">java.util.concurrent.ScheduledExecutorService</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachTransformedKeyTask</node>
+            <node x="" y="">java.util.concurrent.Semaphore.NonfairSync</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.BaseIterator</node>
+            <node x="" y="">java.util.concurrent.ThreadLocalRandom.RandomLongsSpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.KeySpliterator</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.DiscardPolicy</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.OrRelay</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceMappingsToIntTask</node>
+            <node x="" y="">java.util.concurrent.BlockingDeque</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.HeadIndex</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.OrApply</node>
+            <node x="" y="">java.util.concurrent.BrokenBarrierException</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.AbstractItr</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.Itr</node>
+            <node x="" y="">java.util.concurrent.ExecutionException</node>
+            <node x="" y="">java.util.concurrent.Phaser</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ReservationNode</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.DescendingItr</node>
+            <node x="" y="">java.util.concurrent.Exchanger</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.KeyIterator</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.DiscardOldestPolicy</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.CounterCell</node>
+            <node x="" y="">java.util.concurrent.RecursiveTask</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.OrAccept</node>
+            <node x="" y="">java.util.concurrent.Executors.DelegatedExecutorService</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.AsynchronousCompletionTask</node>
+            <node x="" y="">java.util.concurrent.CompletionService</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceEntriesToIntTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ReduceKeysTask</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.CountDownLatch.Sync</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferQueue</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.LTQSpliterator</node>
+            <node x="" y="">java.util.concurrent.Executors.PrivilegedCallable</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachMappingTask</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.Itr</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.FifoWaitQueue</node>
+            <node x="" y="">java.util.concurrent.Delayed</node>
+            <node x="" y="">java.util.concurrent.ThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.CLQSpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceEntriesToDoubleTask</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.EmptyTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ValuesView</node>
+            <node x="" y="">java.util.concurrent.Executors.RunnableAdapter</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniAccept</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ReduceEntriesTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.LifoWaitQueue</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.ForkJoinWorkerThread.InnocuousForkJoinWorkerThread</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferQueue.QNode</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.SubMap.SubMapValueIterator</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask.AdaptedRunnableAction</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.ExecutorCompletionService</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.KeySet</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.ValueIterator</node>
+            <node x="" y="">java.util.concurrent.AbstractExecutorService</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceValuesToIntTask</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWSubList</node>
+            <node x="" y="">java.util.concurrent.ThreadLocalRandom.RandomDoublesSpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentMap</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.EntrySpliterator</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor.DelayedWorkQueue</node>
+            <node x="" y="">java.util.concurrent.Semaphore.FairSync</node>
+            <node x="" y="">java.util.concurrent.DelayQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue.Node</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.Values</node>
+            <node x="" y="">java.util.concurrent.ExecutorService</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ReduceValuesTask</node>
+            <node x="" y="">java.util.concurrent.RunnableFuture</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.KeySpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceKeysTask</node>
+            <node x="" y="">java.util.concurrent.Semaphore</node>
+            <node x="" y="">java.util.concurrent.atomic</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.ForkJoinWorkerThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListSet</node>
+            <node x="" y="">java.util.concurrent.CyclicBarrier.Generation</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask.ExceptionNode</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.SearchMappingsTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.KeySetView</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniRelay</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.Node</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue.LBQSpliterator</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.OrRun</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.Signaller</node>
+            <node x="" y="">java.util.concurrent.Exchanger.Participant</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceValuesTask</node>
+            <node x="" y="">java.util.concurrent.ScheduledThreadPoolExecutor.ScheduledFutureTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.SubMap.SubMapIter</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.RejectedExecutionHandler</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.CSLMSpliterator</node>
+            <node x="" y="">java.util.concurrent.Executors.FinalizableDelegatedExecutorService</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceEntriesToLongTask</node>
+            <node x="" y="">java.util.concurrent.CopyOnWriteArrayList.COWIterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.EntrySet</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.DefaultForkJoinWorkerThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceKeysToDoubleTask</node>
+            <node x="" y="">java.util.concurrent.CancellationException</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniRun</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniHandle</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniCompletion</node>
+            <node x="" y="">java.util.concurrent.Executors</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.Index</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceEntriesTask</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.Completion</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.ManagedBlocker</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.AltResult</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForwardingNode</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.SubMap</node>
+            <node x="" y="">java.util.concurrent.ForkJoinWorkerThread</node>
+            <node x="" y="">java.util.concurrent.FutureTask</node>
+            <node x="" y="">java.util.concurrent.Callable</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.BiRelay</node>
+            <node x="" y="">java.util.concurrent.Executors.PrivilegedCallableUsingCurrentClassLoader</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferStack.SNode</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.BiCompletion</node>
+            <node x="" y="">java.util.concurrent.ThreadLocalRandom</node>
+            <node x="" y="">java.util.concurrent.LinkedTransferQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.Executors.DelegatedScheduledExecutorService</node>
+            <node x="" y="">java.util.concurrent.Executor</node>
+            <node x="" y="">java.util.concurrent.Executors.DefaultThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceMappingsTask</node>
+            <node x="" y="">java.util.concurrent.ArrayBlockingQueue.Itrs</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.Node</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceMappingsToDoubleTask</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.TransferStack</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.BiApply</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachTransformedMappingTask</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.BiRun</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachValueTask</node>
+            <node x="" y="">java.util.concurrent.Semaphore.Sync</node>
+            <node x="" y="">java.util.concurrent.ThreadLocalRandom.RandomIntsSpliterator</node>
+            <node x="" y="">java.util.concurrent.ScheduledFuture</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.SearchEntriesTask</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask.RunnableExecuteAction</node>
+            <node x="" y="">java.util.concurrent.TimeoutException</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.AbortPolicy</node>
+            <node x="" y="">java.util.concurrent.SynchronousQueue.WaitQueue</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.BiAccept</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.Node</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachKeyTask</node>
+            <node x="" y="">java.util.concurrent.CyclicBarrier</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniCompose</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachTransformedValueTask</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.DescendingItr</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.Worker</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.BulkTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.Segment</node>
+            <node x="" y="">java.util.concurrent.CompletionException</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.AsyncRun</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedDeque.CLDSpliterator</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingQueue</node>
+            <node x="" y="">java.util.concurrent.locks</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ValueIterator</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.InnocuousForkJoinWorkerThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.ValueSpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceKeysToIntTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.SubMap.SubMapEntryIterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentLinkedQueue</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.SearchValuesTask</node>
+            <node x="" y="">java.util.concurrent.CompletableFuture.UniWhenComplete</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceMappingsToLongTask</node>
+            <node x="" y="">java.util.concurrent.ExecutorCompletionService.QueueingFuture</node>
+            <node x="" y="">java.util.concurrent.PriorityBlockingQueue.Itr</node>
+            <node x="" y="">java.util.concurrent.RejectedExecutionException</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.CollectionView</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask.AdaptedRunnable</node>
+            <node x="" y="">java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.SearchKeysTask</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.Traverser</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.AbstractItr</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.ForEachEntryTask</node>
+            <node x="" y="">java.util.concurrent.ForkJoinPool.WorkQueue</node>
+            <node x="" y="">java.util.concurrent.TransferQueue</node>
+            <node x="" y="">java.util.concurrent.TimeUnit</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.MapReduceValuesToDoubleTask</node>
+            <node x="" y="">java.util.concurrent.Exchanger.Node</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.EntrySpliterator</node>
+            <node x="" y="">java.util.concurrent.ConcurrentHashMap.TreeNode</node>
+            <node x="" y="">java.util.concurrent.ConcurrentSkipListMap.EntryIterator</node>
+            <node x="" y="">java.util.concurrent.Phaser.QNode</node>
+            <node x="" y="">java.util.concurrent.LinkedBlockingDeque.LBDSpliterator</node>
+            <node x="" y="">java.util.concurrent.Executors.PrivilegedThreadFactory</node>
+            <node x="" y="">java.util.concurrent.ForkJoinTask.AdaptedCallable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.048046520079956384" x="14040.0" y="3957.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="234" column="36" lean-forward="true" selection-start-line="234" selection-start-column="36" selection-end-line="234" selection-end-column="36" />
+          <folding>
+            <element signature="e#5562#5563#0" expanded="false" />
+            <element signature="e#5614#5615#0" expanded="false" />
+            <element signature="e#5694#5695#0" expanded="false" />
+            <element signature="e#5775#5776#0" expanded="false" />
+            <element signature="e#5811#5812#0" expanded="false" />
+            <element signature="e#5878#5879#0" expanded="false" />
+            <element signature="e#5914#5915#0" expanded="false" />
+            <element signature="e#5960#5961#0" expanded="false" />
+            <element signature="e#6849#6850#0" expanded="false" />
+            <element signature="e#6907#6908#0" expanded="false" />
+            <element signature="e#7116#7117#0" expanded="false" />
+            <element signature="e#7150#7151#0" expanded="false" />
+            <element signature="e#8176#8177#0" expanded="false" />
+            <element signature="e#8216#8217#0" expanded="false" />
+            <element signature="e#8451#8452#0" expanded="false" />
+            <element signature="e#8515#8516#0" expanded="false" />
+            <element signature="e#9117#9118#0" expanded="false" />
+            <element signature="e#9144#9145#0" expanded="false" />
+            <element signature="e#12210#12211#0" expanded="false" />
+            <element signature="e#12258#12259#0" expanded="false" />
+            <element signature="e#15850#15851#0" expanded="false" />
+            <element signature="e#15881#15882#0" expanded="false" />
+            <element signature="e#17535#17536#0" expanded="false" />
+            <element signature="e#17577#17578#0" expanded="false" />
+            <element signature="e#18553#18554#0" expanded="false" />
+            <element signature="e#18595#18596#0" expanded="false" />
+            <element signature="e#19868#19869#0" expanded="false" />
+            <element signature="e#19915#19916#0" expanded="false" />
+            <element signature="e#20237#20238#0" expanded="false" />
+            <element signature="e#20275#20276#0" expanded="false" />
+            <element signature="e#22310#22311#0" expanded="false" />
+            <element signature="e#22354#22355#0" expanded="false" />
+            <element signature="e#22843#22844#0" expanded="false" />
+            <element signature="e#22887#22888#0" expanded="false" />
+            <element signature="e#23469#23470#0" expanded="false" />
+            <element signature="e#23515#23516#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="532" column="31" lean-forward="true" selection-start-line="532" selection-start-column="31" selection-end-line="532" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multithread/FairAndUnFairTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
